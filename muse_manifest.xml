@@ -1,0 +1,71 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="nap.com" resolutions="1x" timestamp="1491084174004">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="contact-us.css" crc="303307898" ref="contact-us"/>
+    <file name="index.css" crc="3998098692" ref="index"/>
+    <file name="about-us.css" crc="140970172" ref="about-us"/>
+    <file name="links.css" crc="4276223666" ref="links"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:contact-us:links:about-us"/>
+    <file name="museutils.js" crc="183364071" ref="index:contact-us:links:about-us"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:contact-us:links:about-us"/>
+    <file name="pie.js" crc="3827607177" ref="contact-us:index:links:about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="u172-4.png" crc="3913830022" ref="index"/>
+    <file name="india_post_logosvg.png" crc="3992902483" seo="true" ref="index"/>
+    <file name="computer-network.jpg" crc="3961307007" seo="true" ref="index"/>
+    <file name="smart-india-hackathon.jpg" crc="378402709" seo="true" ref="index"/>
+    <file name="u211-4.png" crc="4132819539" ref="links"/>
+    <file name="u294-4.png" crc="429330812" ref="links"/>
+    <file name="post.jpg" crc="214556825" seo="true" ref="links"/>
+    <file name="screenshot_1.jpg" crc="85775900" seo="true" ref="links"/>
+    <file name="apy.jpg" crc="4056519097" seo="true" ref="links"/>
+    <file name="u223-4.png" crc="4246188542" ref="about-us"/>
+    <file name="u239-4.png" crc="3808890546" ref="contact-us"/>
+    <file name="u182-4-a.png" crc="4109102256" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:links:about-us:contact-us"/>
+    <file name="u207.png" crc="4250770798" ref="index"/>
+    <file name="u207-r.png" crc="4250770798" ref="index"/>
+    <file name="u184.png" crc="186999791" ref="index"/>
+    <file name="u184-r.png" crc="186999791" ref="index"/>
+    <file name="u187.png" crc="35653543" ref="index"/>
+    <file name="u187-r.png" crc="35653543" ref="index"/>
+    <file name="u86.png" crc="3956217811" ref="index"/>
+    <file name="u86-r.png" crc="406266364" ref="index"/>
+    <file name="u90-5.png" crc="475157620" ref="index"/>
+    <file name="u213.png" crc="4109102256" ref="links"/>
+    <file name="u213-r.png" crc="4109102256" ref="links"/>
+    <file name="u215-4-a.png" crc="4250770798" ref="links"/>
+    <file name="u217.png" crc="186999791" ref="links"/>
+    <file name="u217-r.png" crc="186999791" ref="links"/>
+    <file name="u219.png" crc="35653543" ref="links"/>
+    <file name="u219-r.png" crc="35653543" ref="links"/>
+    <file name="u316-4.png" crc="3977415351" ref="links"/>
+    <file name="u317-4.png" crc="3763871192" ref="links"/>
+    <file name="u318-4.png" crc="3872957431" ref="links"/>
+    <file name="u225.png" crc="4109102256" ref="about-us"/>
+    <file name="u225-r.png" crc="4109102256" ref="about-us"/>
+    <file name="u227.png" crc="4250770798" ref="about-us"/>
+    <file name="u227-r.png" crc="4250770798" ref="about-us"/>
+    <file name="u229-4-a.png" crc="186999791" ref="about-us"/>
+    <file name="u231.png" crc="35653543" ref="about-us"/>
+    <file name="u231-r.png" crc="35653543" ref="about-us"/>
+    <file name="u345-4.png" crc="4142430570" ref="about-us"/>
+    <file name="u342-17.png" crc="376479611" ref="about-us"/>
+    <file name="u241.png" crc="4109102256" ref="contact-us"/>
+    <file name="u241-r.png" crc="4109102256" ref="contact-us"/>
+    <file name="u243.png" crc="4250770798" ref="contact-us"/>
+    <file name="u243-r.png" crc="4250770798" ref="contact-us"/>
+    <file name="u245.png" crc="186999791" ref="contact-us"/>
+    <file name="u245-r.png" crc="186999791" ref="contact-us"/>
+    <file name="u247-4-a.png" crc="35653543" ref="contact-us"/>
+    <file name="u344-5.png" crc="3998721813" ref="contact-us"/>
+    <file name="u343-11.png" crc="136568118" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="3926224136" seo="true" mt="1491084153014" redirect="true"/>
+  <file name="contact-us.html" crc="4190299043" seo="true" mt="1491079087309" redirect="true"/>
+  <file name="links.html" crc="3945996950" seo="true" mt="1491079096943" redirect="true"/>
+  <file name="about-us.html" crc="133342150" seo="true" mt="1491079074768" redirect="true"/>
+</manifest>
